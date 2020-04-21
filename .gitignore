@@ -1,0 +1,14 @@
+# Mac
+._.DS_Store/
+.DS_Store/
+*.DS_Store
+
+# Rider
+.idea/
+.vs/
+[Bb]in/
+obj/
+
+# NuGet
+packages/
+
