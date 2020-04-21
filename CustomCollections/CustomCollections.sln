@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollections", "CustomCollections\CustomCollections.csproj", "{A7AAF4F6-4184-4A9B-8C00-CBCD0432875F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollectionsTests", "CustomCollectionsTests\CustomCollectionsTests.csproj", "{5B7333EB-CE71-43BE-81EF-D72452BE4B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7AAF4F6-4184-4A9B-8C00-CBCD0432875F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AAF4F6-4184-4A9B-8C00-CBCD0432875F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AAF4F6-4184-4A9B-8C00-CBCD0432875F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AAF4F6-4184-4A9B-8C00-CBCD0432875F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7333EB-CE71-43BE-81EF-D72452BE4B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7333EB-CE71-43BE-81EF-D72452BE4B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7333EB-CE71-43BE-81EF-D72452BE4B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7333EB-CE71-43BE-81EF-D72452BE4B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
