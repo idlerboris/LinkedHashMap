@@ -5,7 +5,7 @@ using NUnit.Framework;
 
 namespace CustomCollectionsTests
 {
-    public class Tests
+    public class LinkedHashMapTests
     {
         [Test]
         public void EmptyCollectionShouldWork()

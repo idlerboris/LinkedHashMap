@@ -113,7 +113,7 @@ namespace CustomCollections
             return GetEnumerator();
         }
 
-        private void UpdateKey(TKey key)
+        public void UpdateKey(TKey key)
         {
             if (!_valueByKey.ContainsKey(key)) return;
             var node = _valueByKey[key].Node;
